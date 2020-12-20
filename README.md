@@ -13,4 +13,5 @@
 - 📫 How to reach me:  Twitter-->>@[Mohitlunia7](https://twitter.com/MohitLunia7)
                        DEV-->>@[CODE-REDux](https://dev.to/coderedux)
                        Linkedin-->>@[Mohit](https://www.linkedin.com/in/mohit-lunia-2200b6190/)
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=CODE-REDux.CODE-REDux" /></h3><br>                     
 
