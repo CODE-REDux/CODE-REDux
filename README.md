@@ -1,8 +1,10 @@
 ### Hola fellow Developers  👋
 
-![enter image description here](https://github-readme-stats.vercel.app/api?username=CODE-REDux&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
-
-
+<p align='center'>
+  <img align='center' src="https://github-readme-stats.vercel.app/api?username=CODE-REDux&&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Mohit's Github Stats">
+ <p align='center'>
+<img align='center' height='100%' src="https://github-readme-stats.vercel.app/api/top-langs/?username=CODE-REDux&hide_title=true&layout=compact&bg_color=0000&text_color=2f80ed">
+</p>
 
 
 
