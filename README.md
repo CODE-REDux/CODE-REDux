@@ -11,10 +11,6 @@
 - 🤔  Ask me anything about Flutter,Django,Sql and Competetive programming
 - 💬 Curious about anything hit me on any of these platforms
 - 📫 How to reach me:  Twitter-->>@[Mohitlunia7](https://twitter.com/MohitLunia7)
-
-
-                      DEV-->>@[CODE-REDux](https://dev.to/coderedux)
-                       
-                       
-                      Linkedin-->>@[Mohit](https://www.linkedin.com/in/mohit-lunia-2200b6190/)
+                       DEV-->>@[CODE-REDux](https://dev.to/coderedux)
+                       Linkedin-->>@[Mohit](https://www.linkedin.com/in/mohit-lunia-2200b6190/)
 
