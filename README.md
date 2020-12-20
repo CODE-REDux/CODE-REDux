@@ -1,4 +1,4 @@
-### Hola fellow Developers  👋
+<h2 align='center'> ## Ciao 𝐟𝐞𝐥𝐥𝐨𝐰 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜 I am Mohit 👋 </h2>
 
 <p align='center'>
   <img align='center' src="https://github-readme-stats.vercel.app/api?username=CODE-REDux&&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Mohit's Github Stats">
