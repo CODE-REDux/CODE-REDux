@@ -12,8 +12,11 @@
 - 🌱 I’m currently learning Web Dev
 - 🤔  Ask me anything about Flutter,Django,Sql and Competetive programming
 - 💬 Curious about anything hit me on any of these platforms
-- 📫 How to reach me:  Twitter-->>@[Mohitlunia7](https://twitter.com/MohitLunia7)
-                       DEV-->>@[CODE-REDux](https://dev.to/coderedux)
-                       Linkedin-->>@[Mohit](https://www.linkedin.com/in/mohit-lunia-2200b6190/)
+<p align='center'>
+ <a href="https://dev.to/coderedux">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="CODE-REDux's DEV Profile" height="100" width="100">
+</a> 
+<a href="https://www.linkedin.com/in/mohit-lunia-2200b6190/"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/height="100" width="100" >  </a>  <a href="mailto:mohitlunia200001@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail.png"/height="100" width="100"></a>    <a href="https://www.instagram.com/code_redux/"><img src="https://img.icons8.com/color/48/000000/instagram-new.png"/height="100" width="100"></a>
+</p>
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=CODE-REDux.CODE-REDux" /></h3><br>                     
 
