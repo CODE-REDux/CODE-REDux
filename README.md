@@ -7,12 +7,12 @@
 </p>
 
 
-
-- 🔭 I’m currently working on my Blog site
-- 🌱 I’m currently learning Web Dev
-- 🤔 Ask me anything about Flutter,Django,Sql and Competetive programming
-- 🏸 Fun Fact::I love playing Badminton 
-- 💬 Curious about anything hit me on any of these platforms
+<p align='center'>- 🔭 I’m currently working on my Blog site </p>
+<p align='center'>- 🌱 I’m currently learning Web Dev</p>
+<p align='center'>- 🤔 Ask me anything about Flutter,Django,Sql and Competetive programming</p>
+<p align='center'>- 🏸 Fun Fact::I love playing Badminton </p>
+<p align='center'>- 💬 Curious about anything hit me on any of these platforms</p>
+  
 <p align='center'>
  <a href="https://dev.to/coderedux">
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="CODE-REDux's DEV Profile" height="100" width="100">
