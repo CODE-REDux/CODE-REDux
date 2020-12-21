@@ -10,7 +10,8 @@
 
 - 🔭 I’m currently working on my Blog site
 - 🌱 I’m currently learning Web Dev
-- 🤔  Ask me anything about Flutter,Django,Sql and Competetive programming
+- 🤔 Ask me anything about Flutter,Django,Sql and Competetive programming
+- 🏸 Fun Fact::I love playing Badminton 
 - 💬 Curious about anything hit me on any of these platforms
 <p align='center'>
  <a href="https://dev.to/coderedux">
