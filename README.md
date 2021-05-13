@@ -9,7 +9,6 @@
 
 <p align='center'>- 🔭 I’m currently working on my Blog site </p>
 <p align='center'>- 🌱 I’m currently learning Web Dev</p>
-<p align='center'>- 🤔 Ask me anything about Flutter,Django,Sql and Competetive programming</p>
 <p align='center'>- 🏸 Fun Fact::I love playing Badminton </p>
 <p align='center'>- 💬 Curious about anything hit me on any of these platforms</p>
   
